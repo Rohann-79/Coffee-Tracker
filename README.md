@@ -1,2 +1,1 @@
-# caffiend
- A coffee tracking app w. React.JS FantaCSS & Firebase
+Coffee tracker Web Application made with React Vite Firebase and Fanta
